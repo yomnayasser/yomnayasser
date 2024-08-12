@@ -3,6 +3,7 @@
     <a href="https://www.linkedin.com/in/yomna-yasser-0667121b2"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
   
+<img src="https://github.com/user-attachments/assets/01e893ea-5dc5-4a32-8c51-982cbca1fe9d" align="right" width="25%"/>
 
 I'm a software engineer specialized in mobile app development with strong focus on React Native.
 
