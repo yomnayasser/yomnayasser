@@ -6,7 +6,7 @@
 
 I'm a software engineer specialized in mobile app development with strong focus on React Native.
 
-- 🔭 I'm a software developer [@Deliveryhero](https://www.deliveryhero.com/) in Berlin, Germany
+- 🔭 I'm a software developer at Ejada.
 - 🔍 I have live app: 
   - Saudi Real Estate Market App (MOJ) ([Android version](https://play.google.com/store/apps/details?id=com.srem.moj), [iOS version](https://apps.apple.com/eg/app/saudi-real-estate-market/id6446234209)
 - 💬 Ask me about **ReactJs and Frontend**
